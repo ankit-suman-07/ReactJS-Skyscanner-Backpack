@@ -5,9 +5,9 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# [_Date Picker_]
 
-[_Add a brief description of your project here._]
+[_A basic date picker made using ReactJS and Backpack library by Skyscanner._]
 
 ## npm script commands
 
